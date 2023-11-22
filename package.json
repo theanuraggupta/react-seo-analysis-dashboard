@@ -1,0 +1,36 @@
+{
+  "name": "aqd2yt--run",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "react": "18.1.0",
+    "react-dom": "18.1.0",
+    "@syncfusion/ej2-base": "23.2.4",
+    "@syncfusion/ej2-dropdowns": "23.2.4",
+    "@syncfusion/ej2-react-base": "23.2.4",
+    "@syncfusion/ej2-react-dropdowns": "23.2.4",
+    "@syncfusion/ej2-layouts": "23.2.4",
+    "@syncfusion/ej2-react-layouts": "23.2.4",
+    "@syncfusion/ej2-navigations": "23.2.4",
+    "@syncfusion/ej2-react-navigations": "23.2.4",
+    "@syncfusion/ej2-buttons": "23.2.4",
+    "@syncfusion/ej2-compression": "23.2.4",
+    "@syncfusion/ej2-data": "23.2.4",
+    "@syncfusion/ej2-file-utils": "23.2.4",
+    "@syncfusion/ej2-pdf-export": "23.2.4",
+    "@syncfusion/ej2-svg-base": "23.2.4",
+    "@syncfusion/ej2-maps": "23.2.4",
+    "@syncfusion/ej2-react-maps": "23.2.4",
+    "@syncfusion/ej2-charts": "23.2.4",
+    "@syncfusion/ej2-react-charts": "23.2.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "react-scripts": "latest"
+  }
+}
